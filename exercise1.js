@@ -1,9 +1,3 @@
-/*
-Exercise 1 
-
-Write a function `gimmeNumbersLessThan100` that takes in an array and gives you an array with only numbers in it that are less than 100.
-*/
-
 
 const messyArray = ['three', 4, false, 18, 1000, 'chocolate', true];
 

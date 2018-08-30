@@ -1,12 +1,3 @@
-/* 
-Exercise 2 
-
-Given a list of students with a name and a score, write a function `getStudentsByGrade` that takes in an array of students and a set of grade boundaries 
-and gives you an gives you an object with a list of grades and the names of students for each grade.
-Grade boundaries are inclusive. For example, an 80 is considered a B.
-For example Priyanka's score is 99 so their grade would be an A.
-*/
-
 
 const students = [{
   name: 'Della',

@@ -1,11 +1,3 @@
-/*
-Exercise 3 
-
-Write a function `sum` that takes an array (that might contain other arrays!) and sums all the numbers inside of it. The arrays might be nested any 
-number of levels deep so keep that in mind when writing your function.
-For example, our `sum` function would return 28.
-*/
-
 
 const numbers = [1, 2, [ 3, 4, [ 5 ]], 6, 7];
 

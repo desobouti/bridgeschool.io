@@ -1,3 +1,3 @@
-Bridge Cohort 5 Technical Test
+Bridge Cohort 5
 
 https://bridgeschool.io/
